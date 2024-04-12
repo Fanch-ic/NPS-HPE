@@ -1,6 +1,6 @@
 # Programme de décodoge des codes erreurs retournés par les commutateurs HPE sur le serveur NPS
 #
-#	-	CIRISI Cherbourg	-
+#	(c) Administration
 #
 #Fonctionnement :
 #Code erreur en décimal à convertir en binaire sur 32 bits
